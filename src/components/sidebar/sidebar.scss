@@ -1,0 +1,35 @@
+.sidebar {
+  flex: 2.5;
+  height: calc(100vh - 51px);
+  border-right: solid 1px lightgray;
+  margin-left: 20px;
+
+  .sidebarWrapper {
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+    .profileImg {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 5px;
+      margin-left: 10px;
+    }
+  }
+
+  .rightbarName {
+    margin: 0px 10px;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: capitalize;
+  }
+}
+
+
+
+@media only screen and (max-width: 940px) {
+  .sidebar {
+    flex: 1;
+  }
+}
