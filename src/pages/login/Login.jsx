@@ -106,7 +106,13 @@ const Login = () => {
             SignUp
           </Link>
         </div>
+      </form>
+    </div>
+  );
+};
+export default Login;
 
+/*
         <div className="line"></div>
         <div className="media-options">
           <Link
@@ -119,13 +125,6 @@ const Login = () => {
             <span>Login with Google</span>
           </Link>
         </div>
-      </form>
-    </div>
-  );
-};
-export default Login;
-
-/*
         <div className="media-options">
           <Link to="#" className="facebook" style={{ textDecoration: "none" }}>
             <FacebookRounded className="facebookIcon" />

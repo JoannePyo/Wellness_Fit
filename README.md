@@ -4,13 +4,13 @@
 
 ## Register page
 
-![1694134352003](image/README/1694134352003.png)
+![1696026110119](image/README/1696026110119.png)
 
-You also login with Google.
+![1696026682379](image/README/1696026682379.png)
 
 ## Login page
 
-![1694134329537](image/README/1694134329537.png)
+![1696026733402](image/README/1696026733402.png)
 
 ## Tracker page (after login)
 
